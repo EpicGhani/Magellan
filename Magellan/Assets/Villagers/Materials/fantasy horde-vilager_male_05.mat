@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: fantasy horde-vilager_male_05
   m_Shader: {fileID: 4800000, guid: e733619823a3842418ee95b7b1de620f, type: 3}
