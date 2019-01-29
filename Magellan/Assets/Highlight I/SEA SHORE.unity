@@ -31205,14 +31205,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1830289033}
-  m_LocalRotation: {x: -0.0017965232, y: 0.9824104, z: -0.18648724, w: -0.009445519}
-  m_LocalPosition: {x: -146.90446, y: 94.19258, z: -246.47183}
+  m_LocalRotation: {x: 0.038659144, y: -0.96041745, z: 0.21536519, w: 0.1723998}
+  m_LocalPosition: {x: -114.1414, y: 133.29022, z: -126.37131}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 272953533}
   m_Father: {fileID: 0}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 40.249, z: 0}
+  m_LocalEulerAnglesHint: {x: 25.278002, y: -159.647, z: 0}
 --- !u!45 &1830289037
 Skybox:
   m_ObjectHideFlags: 0
