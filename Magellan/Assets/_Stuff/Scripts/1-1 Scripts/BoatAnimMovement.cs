@@ -14,7 +14,7 @@ public class BoatAnimMovement : MonoBehaviour
 			Vector3 dir = waypoint.position - transform.position;
 			transform.LookAt(new Vector3(waypoint.position.x,transform.position.y,waypoint.position.z));
 			transform.Translate(dir.normalized * speed * Time.deltaTime, Space.World);
-
-		}
+		}else 
+			this.enabled = false;
 	}
 }
