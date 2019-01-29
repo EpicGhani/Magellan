@@ -15,11 +15,11 @@ public class HumanWalk : MonoBehaviour
     Transform target;
     public int currWayPoint;
 
-	// Use this for initialization
-	void Start ()
+	  // Use this for initialization
+	  void Start ()
     {
         cc = GetComponent<CharacterController>();
-	}
+	  }
 
     // Update is called once per frame
     void Update()
