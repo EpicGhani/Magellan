@@ -2,15 +2,20 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoatController : MonoBehaviour {
+public class BoatController : MonoBehaviour
+{
+    public float speed;
+    public Animator anim;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+	void Update ()
+    {
+        if(!anim.GetCurrentAnimatorStateInfo(0).IsName("intro1"))
+        {
+            if(Input.GetKeyDown(KeyCode.W))
+            {
+                transform.Translate(Vector3.forward.normalized * speed * Time.deltaTime, Space.World);
+            }
+            Debug.Log("Animation Done!");
+        }
 	}
 }
