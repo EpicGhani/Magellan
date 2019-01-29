@@ -29938,8 +29938,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 1, g: 0.90508515, b: 0.6462264, a: 1}
-  m_Intensity: 1.5
+  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -32579,7 +32579,10 @@ GameObject:
   - component: {fileID: 1830289034}
   - component: {fileID: 1830289037}
   - component: {fileID: 1830289038}
+<<<<<<< HEAD
   - component: {fileID: 1830289039}
+=======
+>>>>>>> parent of 0bcb47b... Image Effects Changed
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -32615,7 +32618,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 10000
+  far clip plane: 1000
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -32674,6 +32677,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+<<<<<<< HEAD
 --- !u!114 &1830289039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32697,6 +32701,8 @@ MonoBehaviour:
   useDepthTexture: 1
   sunShaftsShader: {fileID: 4800000, guid: d3b1c8c1036784176946f5cfbfb7fe4c, type: 3}
   simpleClearShader: {fileID: 4800000, guid: f688f89ed5eb847c5b19c934a0f1e772, type: 3}
+=======
+>>>>>>> parent of 0bcb47b... Image Effects Changed
 --- !u!1001 &1842629297
 Prefab:
   m_ObjectHideFlags: 0
