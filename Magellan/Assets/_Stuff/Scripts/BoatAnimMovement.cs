@@ -7,13 +7,6 @@ public class BoatAnimMovement : MonoBehaviour
 	public Transform waypoint;
 	public float speed;
 
-	Rigidbody rb;
-
-	void Start()
-	{
-		rb = GetComponent<Rigidbody>();
-	}
-
 	void Update()
 	{
 		if(Vector3.Distance(transform.position,waypoint.position) >= 0.2f)
