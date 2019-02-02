@@ -50,12 +50,10 @@ public class HumanWalk : MonoBehaviour
 			}
             if (Vector3.Distance(transform.position, target.position) >= .1f)
             {
-                Vector3 tar = new Vector3(target.position.x, transform.position.y, target.position.z);
-
-                var rot = Quaternion.LookRotation(tar - transform.position);
+                var rot = Quaternion.LookRotation(target.position - transform.position);
                 transform.rotation = Quaternion.Slerp(transform.rotation, rot, Time.deltaTime * lookSpeed);
 
-                Vector3 moveDir = tar - transform.position;
+                Vector3 moveDir = target.position - transform.position;
                 if (moveDir.magnitude > 1)
                 {
                     cc.Move(moveDir.normalized * walkSpeed * Time.deltaTime);
@@ -77,12 +75,10 @@ public class HumanWalk : MonoBehaviour
             target = waypoints[currWayPoint];
             if (Vector3.Distance(transform.position, target.position) >= .1f)
             {
-                Vector3 tar = new Vector3(target.position.x, transform.position.y, target.position.z);
-
-                var rot = Quaternion.LookRotation(tar - transform.position);
+                var rot = Quaternion.LookRotation(target.position - transform.position);
                 transform.rotation = Quaternion.Slerp(transform.rotation, rot, Time.deltaTime * lookSpeed);
 
-                Vector3 moveDir = tar - transform.position;
+                Vector3 moveDir = target.position - transform.position;
                 if (moveDir.magnitude > 1)
                 {
                     cc.Move(moveDir.normalized * walkSpeed * Time.deltaTime);
@@ -101,12 +97,10 @@ public class HumanWalk : MonoBehaviour
             target = waypoints[currWayPoint];
             if (Vector3.Distance(transform.position, target.position) >= .1f)
             {
-                Vector3 tar = new Vector3(target.position.x, transform.position.y, target.position.z);
-
-                var rot = Quaternion.LookRotation(tar - transform.position);
+                var rot = Quaternion.LookRotation(target.position - transform.position);
                 transform.rotation = Quaternion.Slerp(transform.rotation, rot, Time.deltaTime * lookSpeed);
 
-                Vector3 moveDir = tar - transform.position;
+                Vector3 moveDir = target.position - transform.position;
                 if (moveDir.magnitude > 1)
                 {
                     cc.Move(moveDir.normalized * walkSpeed * Time.deltaTime);

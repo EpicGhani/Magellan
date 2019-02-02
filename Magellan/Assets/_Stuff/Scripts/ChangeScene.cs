@@ -30,12 +30,13 @@ public class ChangeScene : MonoBehaviour
 
 	IEnumerator Change()
 	{
+		if(transition!=null)
 		transition.GameOver();
 		if(thisAudio != null)
 		{
 			while(thisAudio.volume >0)
 			{
-				thisAudio.volume-=Time.deltaTime/transition.fadeSpeed;
+				thisAudio.volume-=Time.deltaTime/2;
 				yield return null;
 			}
 		}
@@ -44,12 +45,13 @@ public class ChangeScene : MonoBehaviour
 		{
 			targetToEnable[i].SetActive(true);
 		}
+		if(transition!=null)
 		transition.StartGame();
 		if(targetAudio != null)
 		{
 			while(targetAudio.volume <1)
 			{
-				targetAudio.volume+=Time.deltaTime/transition.fadeSpeed;
+				targetAudio.volume+=Time.deltaTime/2;
 				yield return null;
 			}
 		}

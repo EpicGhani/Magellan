@@ -11,6 +11,7 @@ public class CameraTrigger : MonoBehaviour
 	public bool transition;
 	public Animator anim;
 	public GameObject[] objToDelete;
+	public GameObject[] objToEnable;
 
 
 	void OnTriggerEnter(Collider col)
@@ -22,10 +23,18 @@ public class CameraTrigger : MonoBehaviour
 				StartCoroutine(TransitionScene());
 			else
 			{
-				camFollow.target = cameraTarget;
-				camFollow.offset = offset;
+				if(camFollow!=null)
+				{
+					camFollow.enabled = true;
+					camFollow.target = cameraTarget;
+					camFollow.offset = offset;
+				}
 				if(anim != null)
 					anim.enabled = false;
+				for (int i = 0; i < objToEnable.Length; i++)
+				{
+					objToEnable[i].SetActive(true);
+				}
 				for (int i = 0; i < objToDelete.Length; i++) 
 				{
 					Destroy(objToDelete[i]);
@@ -35,12 +44,21 @@ public class CameraTrigger : MonoBehaviour
 	}
 	IEnumerator TransitionScene()
 	{
+	
 		trans.GameOver();
 		yield return new WaitForSeconds(2);
-		camFollow.target = cameraTarget;
-		camFollow.offset = offset;
+		if(camFollow!=null)
+		{
+			camFollow.enabled = true;
+			camFollow.target = cameraTarget;
+			camFollow.offset = offset;
+		}
 		if(anim != null)
 			anim.enabled = false;
+		for (int i = 0; i < objToEnable.Length; i++)
+		{
+			objToEnable[i].SetActive(true);
+		}
 		for (int i = 0; i < objToDelete.Length; i++) 
 		{
 			Destroy(objToDelete[i]);
