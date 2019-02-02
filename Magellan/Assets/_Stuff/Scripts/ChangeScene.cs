@@ -12,25 +12,32 @@ public class ChangeScene : MonoBehaviour
 	public AudioSource thisAudio;
 
 	float timer;
+	bool changed = false;
 
 	void Update()
 	{
-		if(timer <= delay)
-			timer += Time.deltaTime;
-		else
+		if(!changed)
 		{
-			StartCoroutine(Change());
-			timer = 0;
+			if(timer <= delay)
+				timer += Time.deltaTime;
+			else
+			{
+				StartCoroutine(Change());
+				timer = 0;
+			}
 		}
 	}
 
 	IEnumerator Change()
 	{
 		transition.GameOver();
-		while(thisAudio.volume >0)
+		if(thisAudio != null)
 		{
-			thisAudio.volume-=Time.deltaTime/transition.fadeSpeed;
-			yield return null;
+			while(thisAudio.volume >0)
+			{
+				thisAudio.volume-=Time.deltaTime/transition.fadeSpeed;
+				yield return null;
+			}
 		}
 		yield return new WaitForSeconds(2);
 		for (int i = 0; i < targetToEnable.Length; i++)
@@ -38,14 +45,18 @@ public class ChangeScene : MonoBehaviour
 			targetToEnable[i].SetActive(true);
 		}
 		transition.StartGame();
-		while(targetAudio.volume <1)
+		if(targetAudio != null)
 		{
-			targetAudio.volume+=Time.deltaTime/transition.fadeSpeed;
-			yield return null;
+			while(targetAudio.volume <1)
+			{
+				targetAudio.volume+=Time.deltaTime/transition.fadeSpeed;
+				yield return null;
+			}
 		}
 		for (int i = 0; i < targetToDisable.Length; i++)
 		{
 			targetToDisable[i].SetActive(false);
 		}
+		changed = true;
 	}
 }
