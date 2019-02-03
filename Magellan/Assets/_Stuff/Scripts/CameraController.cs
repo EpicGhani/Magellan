@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
 	{
 		if(!starFollow)
 		{
-			if(anim.GetCurrentAnimatorStateInfo(0).IsName("intro1") && 
+			if(anim.GetCurrentAnimatorStateInfo(0).IsName("intro1") &&
 			   anim.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1f)
 			{
 				anim.enabled = false;

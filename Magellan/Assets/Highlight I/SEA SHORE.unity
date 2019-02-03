@@ -180,7 +180,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400138, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 400000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -622,8 +622,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 960249622}
   speed: 3
 --- !u!1001 &17921119
@@ -1546,8 +1546,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6363f51ee6a6d4741a511c9e90e89f1e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 0
   targetToEnable: []
   targetToDisable: []
@@ -1702,7 +1702,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -1831,7 +1831,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -2007,8 +2007,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0935ad3fc83a9ae42baf7cfd60f93ed9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   goTrans: 1
   selfDestruct: 0
   animate: 0
@@ -2016,10 +2016,10 @@ MonoBehaviour:
   targetCan: {fileID: 88687582}
   fadeSpeed: 2
   waitTime: 0
-  targetScene: 
+  targetScene:
   changeScene: 0
   animator: {fileID: 0}
-  animatorBool: 
+  animatorBool:
   animWaitTime: 0
 --- !u!225 &88687582
 CanvasGroup:
@@ -2041,8 +2041,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_IgnoreReversedGraphics: 1
   m_BlockingObjects: 0
   m_BlockingMask:
@@ -2057,8 +2057,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
@@ -6983,7 +6983,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400138, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
@@ -7078,7 +7078,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -7161,7 +7161,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -7729,7 +7729,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -8295,7 +8295,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -8318,7 +8318,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -8539,17 +8539,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -8642,7 +8642,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -8989,7 +8989,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -9229,27 +9229,27 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400090, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[1]
-      value: 
+      value:
       objectReference: {fileID: 7400004, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[7]
-      value: 
+      value:
       objectReference: {fileID: 7400016, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[11]
-      value: 
+      value:
       objectReference: {fileID: 7400112, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[16]
-      value: 
+      value:
       objectReference: {fileID: 7400122, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
@@ -9264,12 +9264,12 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[27]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 9bac5fbe25ab3314ebbafb01e9a7c29b, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 7400090, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
@@ -14248,12 +14248,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -14361,7 +14361,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -14538,12 +14538,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -14666,12 +14666,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -15042,8 +15042,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 364b432f707bb0b43a481cd4a181353e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   target: {fileID: 1240521555}
   offset: {x: 0, y: 0, z: 0}
   followSpeed: 10
@@ -15309,7 +15309,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -15444,7 +15444,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -20629,7 +20629,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -21061,17 +21061,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -21189,17 +21189,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -21314,8 +21314,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ef190a3bfedd00a4fbfc8576aef66524, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 1591752097}
   speed: 15
   destroy: 1
@@ -21359,8 +21359,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a77f82081deecb4cb555d16165dd2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 0
   particle: {fileID: 2092188401}
 --- !u!82 &327166993
@@ -21571,8 +21571,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 1558521181}
   speed: 6
 --- !u!54 &336457106
@@ -22303,8 +22303,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 1693629645}
   speed: 6
 --- !u!1 &378570319
@@ -23387,12 +23387,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -23614,8 +23614,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3317ab0d1072aa549a7d1f57bbbd70d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   moveType: 0
   walkSpeed: 1
   lookSpeed: 5
@@ -23726,7 +23726,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -24099,12 +24099,12 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -24163,12 +24163,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -24417,12 +24417,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -24642,17 +24642,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[27]
-      value: 
+      value:
       objectReference: {fileID: 7400000, guid: c2155ffe2a264a143a77825d2c95977d, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -24819,7 +24819,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
@@ -30378,7 +30378,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -31069,8 +31069,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a77f82081deecb4cb555d16165dd2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 0
   particle: {fileID: 1119988300}
 --- !u!82 &554289759
@@ -31222,12 +31222,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -31333,7 +31333,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
@@ -36304,7 +36304,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: e41de95feac3cbf47aebfa3a46661e99, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
@@ -36323,8 +36323,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3317ab0d1072aa549a7d1f57bbbd70d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   moveType: 2
   walkSpeed: 2
   lookSpeed: 5
@@ -36688,12 +36688,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -37626,7 +37626,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -37934,12 +37934,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -38068,8 +38068,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -38086,8 +38086,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
@@ -38172,7 +38172,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -38302,11 +38302,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 11100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
@@ -38555,8 +38555,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a77f82081deecb4cb555d16165dd2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 0
   particle: {fileID: 1329689680}
 --- !u!82 &672413764
@@ -38972,8 +38972,8 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 364b432f707bb0b43a481cd4a181353e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   target: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
   followSpeed: 2
@@ -39681,12 +39681,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -39771,8 +39771,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
@@ -40500,12 +40500,12 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -40585,17 +40585,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -40863,12 +40863,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -41393,8 +41393,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3317ab0d1072aa549a7d1f57bbbd70d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   moveType: 0
   walkSpeed: 2
   lookSpeed: 5
@@ -41473,22 +41473,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -41903,7 +41903,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -42084,12 +42084,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -42160,7 +42160,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: e41de95feac3cbf47aebfa3a46661e99, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
@@ -42179,8 +42179,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3317ab0d1072aa549a7d1f57bbbd70d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   moveType: 2
   walkSpeed: 2
   lookSpeed: 5
@@ -42523,15 +42523,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 11100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
       propertyPath: m_Animations.Array.data[27]
-      value: 
+      value:
       objectReference: {fileID: 7400000, guid: c2155ffe2a264a143a77825d2c95977d, type: 3}
     - target: {fileID: 11100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
@@ -42629,12 +42629,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -47843,8 +47843,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a77f82081deecb4cb555d16165dd2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 0
   particle: {fileID: 2089712026}
 --- !u!82 &862463275
@@ -47985,8 +47985,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6363f51ee6a6d4741a511c9e90e89f1e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 20
   targetToEnable:
   - {fileID: 245448015}
@@ -48175,12 +48175,12 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -48502,12 +48502,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -48558,8 +48558,8 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 364b432f707bb0b43a481cd4a181353e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   target: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
   followSpeed: 10
@@ -48828,12 +48828,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -49465,17 +49465,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -49753,8 +49753,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3d972fdd94610a04a90a1c0cee3dcea5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   cameraTarget: {fileID: 1976584531}
   camFollow: {fileID: 684205153}
   offset: {x: 0, y: 1, z: -3}
@@ -55157,7 +55157,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -55655,8 +55655,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3317ab0d1072aa549a7d1f57bbbd70d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   moveType: 0
   walkSpeed: 1
   lookSpeed: 5
@@ -55778,8 +55778,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 922683815}
   speed: 6
 --- !u!54 &999932279
@@ -55821,8 +55821,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 055286c03d95eca4194a0e6d40cda471, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   anim: {fileID: 1830289038}
   speed: 6
 --- !u!65 &999932282
@@ -56580,7 +56580,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -56829,22 +56829,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -61633,8 +61633,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 317130200}
   speed: 6
 --- !u!1 &1061715401
@@ -66305,8 +66305,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 931726771}
   speed: 6
 --- !u!65 &1068908749
@@ -66512,17 +66512,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -66647,8 +66647,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 1768312116}
   speed: 6
 --- !u!54 &1078689923
@@ -72047,7 +72047,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -72377,8 +72377,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bd7051ceaeafb544982f4e4f14454135, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   transition: {fileID: 88687581}
   cameraTarget: {fileID: 1515881826}
   human: {fileID: 110213988}
@@ -72618,7 +72618,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -72682,12 +72682,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -72822,12 +72822,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -74621,7 +74621,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -74700,12 +74700,12 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -74804,7 +74804,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -74943,12 +74943,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -75082,12 +75082,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -75186,11 +75186,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 11100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 004b0b8e281e7d44685db6ff361e91ad, type: 2}
@@ -75393,11 +75393,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 11100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d0d122abb801454d85d05f07427a019, type: 2}
@@ -75473,8 +75473,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6363f51ee6a6d4741a511c9e90e89f1e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 10
   targetToEnable:
   - {fileID: 2080351051}
@@ -75610,17 +75610,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -75677,8 +75677,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 145897761}
   speed: 6
 --- !u!4 &1279146903 stripped
@@ -75977,12 +75977,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -76246,7 +76246,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -76308,7 +76308,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -76545,12 +76545,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -76599,8 +76599,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 669388679}
   speed: 6
 --- !u!1001 &1320670252
@@ -76943,22 +76943,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -81959,12 +81959,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -82220,7 +82220,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -82557,12 +82557,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -82849,22 +82849,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -83421,7 +83421,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -84050,8 +84050,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 1585893476}
   speed: 6
 --- !u!54 &1448351233
@@ -84102,7 +84102,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -84262,12 +84262,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -84323,12 +84323,12 @@ Prefab:
     - target: {fileID: 111619069273269152, guid: 9bc4e9b38c3d7ac489290b384f0daa59,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111619069273269152, guid: 9bc4e9b38c3d7ac489290b384f0daa59,
         type: 2}
       propertyPath: m_Animations.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 1410814465889356, guid: 9bc4e9b38c3d7ac489290b384f0daa59, type: 2}
       propertyPath: m_IsActive
@@ -84653,12 +84653,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -84988,7 +84988,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -85222,8 +85222,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 2124207299}
   speed: 6
 --- !u!1 &1504752510
@@ -85304,17 +85304,17 @@ Prefab:
     - target: {fileID: 114984853408376050, guid: 22586e76c5ba13e438bb8a6edcb21254,
         type: 2}
       propertyPath: waypoints.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 891778399}
     - target: {fileID: 114984853408376050, guid: 22586e76c5ba13e438bb8a6edcb21254,
         type: 2}
       propertyPath: waypoints.Array.data[1]
-      value: 
+      value:
       objectReference: {fileID: 299671321}
     - target: {fileID: 114984853408376050, guid: 22586e76c5ba13e438bb8a6edcb21254,
         type: 2}
       propertyPath: waypoints.Array.data[2]
-      value: 
+      value:
       objectReference: {fileID: 1589928128}
     - target: {fileID: 1914373438299140, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
       propertyPath: m_TagString
@@ -85627,12 +85627,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -90474,7 +90474,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: 658bc00fb1f2aab41b9b59015a6e156c, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 658bc00fb1f2aab41b9b59015a6e156c, type: 2}
@@ -91121,12 +91121,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -91304,22 +91304,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -91699,12 +91699,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -91773,12 +91773,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -92511,12 +92511,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -92648,8 +92648,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3d972fdd94610a04a90a1c0cee3dcea5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   cameraTarget: {fileID: 365071650}
   camFollow: {fileID: 245448019}
   offset: {x: -2, y: 1, z: 0.5}
@@ -92695,8 +92695,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6363f51ee6a6d4741a511c9e90e89f1e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 40
   targetToEnable:
   - {fileID: 864793291}
@@ -92884,7 +92884,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -93296,8 +93296,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3d972fdd94610a04a90a1c0cee3dcea5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   cameraTarget: {fileID: 1205608727}
   camFollow: {fileID: 1830289040}
   offset: {x: 1, y: 1, z: 3}
@@ -93368,7 +93368,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -93773,8 +93773,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3d972fdd94610a04a90a1c0cee3dcea5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   cameraTarget: {fileID: 1068908747}
   camFollow: {fileID: 684205153}
   offset: {x: 0, y: 2.5, z: -5}
@@ -98624,7 +98624,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -98759,22 +98759,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -98974,17 +98974,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -99056,7 +99056,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -99237,7 +99237,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -99484,7 +99484,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -99749,22 +99749,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -100129,7 +100129,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400138, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fca4f856b70ac7947a69e7c1dc4e804a, type: 2}
@@ -100263,7 +100263,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -100598,8 +100598,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 980463720}
   speed: 6
 --- !u!1 &1790195914
@@ -101495,7 +101495,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -101508,8 +101508,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f963983db778a24468ba32311138d6d6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   anim: {fileID: 1830289038}
   camFollow: {fileID: 1830289040}
 --- !u!114 &1830289040
@@ -101521,8 +101521,8 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 364b432f707bb0b43a481cd4a181353e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   target: {fileID: 1717323755}
   offset: {x: 0, y: 25, z: -50}
   followSpeed: 2.5
@@ -101640,12 +101640,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -101730,17 +101730,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -101892,8 +101892,8 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6363f51ee6a6d4741a511c9e90e89f1e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 30
   targetToEnable:
   - {fileID: 126628299}
@@ -102269,8 +102269,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a77f82081deecb4cb555d16165dd2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   delay: 0
   particle: {fileID: 474856747}
 --- !u!82 &1862179567
@@ -102422,7 +102422,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -102708,7 +102708,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -102883,12 +102883,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -102968,17 +102968,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -103046,12 +103046,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -103269,7 +103269,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -103333,12 +103333,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -104087,7 +104087,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -104250,12 +104250,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -104462,8 +104462,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3317ab0d1072aa549a7d1f57bbbd70d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   moveType: 0
   walkSpeed: 1
   lookSpeed: 5
@@ -104702,15 +104702,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: dfdffde9ce2ddfa4ba9ac4c1be7e7254, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 56d2c76b60135af4e8d362adb1c8a57d, type: 2}
     - target: {fileID: 2300002, guid: dfdffde9ce2ddfa4ba9ac4c1be7e7254, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 7da526f92d7369d4da04e43d0e4fc914, type: 2}
     - target: {fileID: 2300004, guid: dfdffde9ce2ddfa4ba9ac4c1be7e7254, type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 
+      value:
       objectReference: {fileID: 2100000, guid: 813c00741c2879e408a8dba5a88ef33b, type: 2}
     - target: {fileID: 400000, guid: dfdffde9ce2ddfa4ba9ac4c1be7e7254, type: 3}
       propertyPath: m_LocalScale.z
@@ -105023,12 +105023,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -105100,17 +105100,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -105267,17 +105267,17 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[24]
-      value: 
+      value:
       objectReference: {fileID: 7400046, guid: 2e21eeadd62d66d4aae0c916d564a751, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -105357,7 +105357,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -105452,12 +105452,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -105601,8 +105601,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 118274673}
   speed: 3
 --- !u!1001 &1960844737
@@ -105756,7 +105756,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
@@ -106331,8 +106331,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06bc98601d86d4b468655550d664640b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   waypoint: {fileID: 1512068656}
   speed: 3
 --- !u!4 &2002225399 stripped
@@ -106483,12 +106483,12 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[5]
-      value: 
+      value:
       objectReference: {fileID: 7400100, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -106596,7 +106596,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -106670,7 +106670,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -106738,7 +106738,7 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -107555,7 +107555,7 @@ Prefab:
     - target: {fileID: 111121542649090610, guid: fad86e961208d2643b69aebc66d0ccd2,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400094, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fad86e961208d2643b69aebc66d0ccd2, type: 2}
@@ -108174,22 +108174,22 @@ Prefab:
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[23]
-      value: 
+      value:
       objectReference: {fileID: 7400002, guid: 190f7df48a4032e45a955eea74bdc720, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[13]
-      value: 
+      value:
       objectReference: {fileID: 7400116, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111142783153514804, guid: 5c2deb6016a6914409e7779550c0f9f3,
         type: 2}
       propertyPath: m_Animations.Array.data[12]
-      value: 
+      value:
       objectReference: {fileID: 7400114, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c2deb6016a6914409e7779550c0f9f3, type: 2}
@@ -118140,8 +118140,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3317ab0d1072aa549a7d1f57bbbd70d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   moveType: 0
   walkSpeed: 1
   lookSpeed: 5
@@ -118292,7 +118292,7 @@ Prefab:
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
       propertyPath: m_Animation
-      value: 
+      value:
       objectReference: {fileID: 7400092, guid: 1162192dcbcf3544eaef26cc8bf440d4, type: 3}
     - target: {fileID: 111193909792118036, guid: 80ef8a24ad31a1d49a5f5215c9794758,
         type: 2}
