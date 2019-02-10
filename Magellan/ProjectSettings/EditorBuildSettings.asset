@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Highlight I/SEA SHORE.unity
+    guid: 869ec5ebf82c48641bafae2a6272f631
+  - enabled: 1
+    path: Assets/Highlight I/seashore_prison.unity
+    guid: 3de7ae93307f52b46a74d89610aeafba
   m_configObjects: {}

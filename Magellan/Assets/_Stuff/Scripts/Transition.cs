@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Transition : MonoBehaviour 
 {
@@ -17,7 +18,7 @@ public class Transition : MonoBehaviour
 	public float waitTime = 0;
 	
 	[Header("Scene Change Settings")]
-	public string targetScene;
+	public int targetScene;
 	public bool changeScene = false;
 	
 	[Header("Animation Settings")]
@@ -76,6 +77,8 @@ public class Transition : MonoBehaviour
 		}
 		if(selfDestruct)
 			Destroy(gameObject);
+		if(changeScene)
+			SceneManager.LoadScene(targetScene);
 		yield return null;
 	}
 	IEnumerator FadeOut()
@@ -89,7 +92,7 @@ public class Transition : MonoBehaviour
 			yield return null;
 		}
 		if(changeScene)
-			Application.LoadLevel(targetScene);
+			SceneManager.LoadScene(targetScene);
 		if(selfDestruct)
 			Destroy(gameObject);
 		yield break;
@@ -114,7 +117,7 @@ public class Transition : MonoBehaviour
 			yield return null;
 		}
 		if(changeScene)
-			Application.LoadLevel(targetScene);
+			SceneManager.LoadScene(targetScene);
 		if(selfDestruct)
 			Destroy(gameObject);
 		yield break;

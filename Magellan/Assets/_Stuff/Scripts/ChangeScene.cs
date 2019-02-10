@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class ChangeScene : MonoBehaviour
 {
+	public enum TransitionType{Delayed,Triggered}
+	public TransitionType Type = TransitionType.Triggered;
 	public float delay;
 	public GameObject[] targetToEnable;
 	public GameObject[] targetToDisable;
@@ -18,12 +20,13 @@ public class ChangeScene : MonoBehaviour
 	{
 		if(!changed)
 		{
-			if(timer <= delay)
-				timer += Time.deltaTime;
-			else
-			{
+			if(Type == TransitionType.Triggered)
 				StartCoroutine(Change());
-				timer = 0;
+			if(Type == TransitionType.Delayed)
+			{
+				timer += Time.deltaTime;
+				if(timer >= delay)
+					StartCoroutine(Change ());
 			}
 		}
 	}

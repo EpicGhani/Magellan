@@ -6,6 +6,7 @@ public class CameraController : MonoBehaviour
 {
 	public Animator anim;
 	public CameraFollow camFollow;
+	public Transition Instruction;
 
 	bool starFollow = false;
 	void Update ()
@@ -17,6 +18,7 @@ public class CameraController : MonoBehaviour
 			{
 				anim.enabled = false;
 				starFollow = true;
+				Instruction.GameOver();
 			}
 		}
 		else camFollow.enabled = true;

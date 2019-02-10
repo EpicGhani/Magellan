@@ -9,7 +9,6 @@ public class BoatTrigger : MonoBehaviour
 	public HumanWalk human;
 	public CameraFollow camFollow;
 	public BoatController controller;
-	public ChangeScene cs;
 
 	void OnTriggerEnter(Collider col)
 	{
@@ -27,7 +26,6 @@ public class BoatTrigger : MonoBehaviour
 		camFollow.offset = new Vector3(0,1,-2);
 		camFollow.target = cameraTarget;
 		yield return new WaitForSeconds(2f);
-		cs.enabled = true;
 		transition.StartGame();
 		human.enabled = true;
 	}

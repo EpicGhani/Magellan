@@ -6,6 +6,7 @@ public class BoatController : MonoBehaviour
 {
 	public Animator anim;
 	public float speed;
+	public Transition instructions;
 
 	bool enableMove = false;
 	void Update()
@@ -18,7 +19,12 @@ public class BoatController : MonoBehaviour
 				enableMove = true;
 			}
 		}else
+		{
 			if(Input.GetKey(KeyCode.W))
+			{
 				transform.Translate(Vector3.forward * speed * Time.deltaTime);
+				instructions.StartGame();
+			}
+		}
 	}
 }
