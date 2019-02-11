@@ -14,7 +14,8 @@ public class DialogueManager : MonoBehaviour
 	public ChangeScene[] changeSceneScripts;
 
 	int indexToLoad;
-	int sceneChangeIndex;
+	public int sceneChangeIndex;
+	bool doneLoading;
 
 	void OnEnable()
 	{
@@ -23,7 +24,12 @@ public class DialogueManager : MonoBehaviour
 
 	public void StartDialogue()
 	{
-		StartCoroutine(LoadDialogue());
+		Debug.Log ("Clicked");
+		if(doneLoading)
+		{
+			StartCoroutine(LoadDialogue());
+			doneLoading = false;
+		}
 	}
 
 	IEnumerator LoadDialogue()
@@ -49,6 +55,7 @@ public class DialogueManager : MonoBehaviour
 			}
 			statementIndex++;
 		}
+		doneLoading = true;
 	}
 }
 
