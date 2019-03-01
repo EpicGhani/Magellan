@@ -2774,7 +2774,7 @@ Prefab:
     - target: {fileID: 114993115419081596, guid: b2c4c80f467263d45ac529e2ea31222c,
         type: 2}
       propertyPath: dialogueSet.Array.data[1].dialogues.Array.data[1].body
-      value: Indeed, I am, Sir. How my I assist you?
+      value: Indeed, I am, Sir. How may I assist you?
       objectReference: {fileID: 0}
     - target: {fileID: 114993115419081596, guid: b2c4c80f467263d45ac529e2ea31222c,
         type: 2}
@@ -3754,6 +3754,136 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4221969038500066, guid: 82fc0e4611497ae46a3f38db39d20eec,
     type: 2}
   m_PrefabInternal: {fileID: 973208538}
+--- !u!1001 &1237412551
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224347211625269856, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114981375493025204, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_havePropertiesChanged
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114981375493025204, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_isInputParsingRequired
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114981375493025204, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_text
+      value: 'Chapter 1: Part 3'
+      objectReference: {fileID: 0}
+    - target: {fileID: 114981375493025204, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_textInfo.characterCount
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 114981375493025204, guid: 48f0fff6497cacf42b7e339bbcede8ee,
+        type: 2}
+      propertyPath: m_textInfo.spaceCount
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 48f0fff6497cacf42b7e339bbcede8ee, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1242340611
 GameObject:
   m_ObjectHideFlags: 0
@@ -4208,6 +4338,53 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 7096266c013872c40831c64932acacfd,
     type: 2}
   m_PrefabInternal: {fileID: 776221788}
+--- !u!1001 &1380125864
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 403.7027
+      objectReference: {fileID: 0}
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 217.10204
+      objectReference: {fileID: 0}
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 425.98483
+      objectReference: {fileID: 0}
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4598135024513152, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 114412209950138240, guid: 96ea4309d334c8240a4b9485d16d27dc,
+        type: 2}
+      propertyPath: SceneIndex
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 96ea4309d334c8240a4b9485d16d27dc, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!4 &1386962405 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4262973407638096, guid: 9ca5b8fd2fa2eb347a3f7730cb9669ec,
@@ -5011,7 +5188,7 @@ MonoBehaviour:
   targetCan: {fileID: 76302828}
   fadeSpeed: 2
   waitTime: 0
-  targetScene: 3
+  targetScene: 4
   changeScene: 1
   animator: {fileID: 0}
   animatorBool: 
@@ -5164,6 +5341,130 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ca5b8fd2fa2eb347a3f7730cb9669ec, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1726871007
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1726871009}
+  - component: {fileID: 1726871008}
+  m_Layer: 0
+  m_Name: AudioSource
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1726871008
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1726871007}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 032305db61dd26f479c828a911f7afa6, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1726871009
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1726871007}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 347, y: 0, z: 411}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1740346875
 Prefab:
   m_ObjectHideFlags: 0
@@ -6000,127 +6301,128 @@ Prefab:
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[0].question
-      value: This is a placeholder question.
+      value: Why did Magellan pledge allegiance with the Spanish Empire?
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[0].choices.Array.data[0]
-      value: A
+      value: To have his revenge on his former Empire
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[0].choices.Array.data[1]
-      value: B
+      value: To have new opportunity
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[0].choices.Array.data[2]
-      value: C
+      value: No information Given
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[0].correctAnswer
-      value: Correct Answer
+      value: To continue his career as a sailor.
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[1].question
-      value: This is a placeholder question.
+      value: Why did the treaty of Tordesillas was established?
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[1].choices.Array.data[0]
-      value: A
+      value: In order to divide the lands for both Spain and Portugal
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[1].choices.Array.data[1]
-      value: B
+      value: It was just for fun
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[1].choices.Array.data[2]
-      value: C
+      value: The question is irrelevant to the story
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[1].correctAnswer
-      value: Correct Answer
+      value: No information given
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[2].question
-      value: This is a placeholder question.
+      value: Magellan was able to reach the Maluku Island. How did this happen?
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[2].choices.Array.data[0]
-      value: A
+      value: Magellan was able to reach the island by sailing the ship towards east
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[2].choices.Array.data[1]
-      value: B
+      value: They have reached the island without natural threats
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[2].choices.Array.data[2]
-      value: C
+      value: The Maluku island is just walking distance from Spain
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[2].correctAnswer
-      value: Correct Answer
+      value: The question is too early to ask in this part of the story
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[3].question
-      value: This is a placeholder question.
+      value: Who ordered the mission to sail to the Maluku island?
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[3].choices.Array.data[0]
-      value: A
+      value: Adriano
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[3].choices.Array.data[1]
-      value: B
+      value: The Ambassadors
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[3].choices.Array.data[2]
-      value: C
+      value: Magellan
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[3].correctAnswer
-      value: Correct Answer
+      value: The King
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[4].question
-      value: This is a placeholder question.
+      value: Magellan was able to smuggle some weapons and food supplies to be used
+        in the expedition. Where was it smuggled?
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[4].choices.Array.data[0]
-      value: A
+      value: In the ship where Captain Romulo is present
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[4].choices.Array.data[1]
-      value: B
+      value: Back in the prison where Magellan was held
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[4].choices.Array.data[2]
-      value: C
+      value: Back in the Diu island where the battle was held
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}
       propertyPath: questions.Array.data[4].correctAnswer
-      value: Correct Answer
+      value: The question is irrelevant to the story
       objectReference: {fileID: 0}
     - target: {fileID: 114721463535987320, guid: 02413f67d8d264244b55634365daa0a0,
         type: 2}

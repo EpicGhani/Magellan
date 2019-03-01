@@ -42,12 +42,12 @@ public class DialogueManager : MonoBehaviour
 			body.SetText(dialogueSet[statementIndex].dialogues[indexToLoad].body);
 			indexToLoad++;
 		}
-		else
+		else if(dialogueSet[statementIndex].dialogues.Length<=indexToLoad)
 		{
+			this.gameObject.SetActive(false);
 			indexToLoad = 0;
 			name.SetText("");
 			body.SetText("");
-			this.gameObject.SetActive(false);
 			if(dialogueSet[statementIndex].dialogues[indexToLoad].Type == DialogueSets.DialogueType.Dialogue)
 			{
 				changeSceneScripts[sceneChangeIndex].enabled = true;
@@ -55,6 +55,7 @@ public class DialogueManager : MonoBehaviour
 			}
 			statementIndex++;
 		}
+		yield return new WaitForSeconds(.5f);
 		doneLoading = true;
 	}
 }

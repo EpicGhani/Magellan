@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Transition : MonoBehaviour 
 {
-	public enum TransType {FadeIn,FadeOut,Both};
+	public enum TransType {FadeIn,FadeOut,Both,BothInverted};
 	
 	public bool goTrans = true;
 	public bool selfDestruct = false;
@@ -37,6 +37,8 @@ public class Transition : MonoBehaviour
 				StartCoroutine(FadeOut());
 			else if(type == TransType.Both)
 				StartCoroutine(Both());
+			else if(type == TransType.BothInverted)
+				StartCoroutine(BothInverted());
 		}
 	}
 	
@@ -91,6 +93,31 @@ public class Transition : MonoBehaviour
 			
 			yield return null;
 		}
+		if(changeScene)
+			SceneManager.LoadScene(targetScene);
+		if(selfDestruct)
+			Destroy(gameObject);
+		yield break;
+	}
+	IEnumerator BothInverted()
+	{
+		yield return new WaitForSeconds(waitTime);
+		while(targetCan.alpha > 0)
+		{
+			Mathf.Clamp(targetCan.alpha,0,1);
+			targetCan.alpha -= Time.deltaTime / fadeSpeed;
+			
+			yield return null;
+		}
+		yield return new WaitForSeconds(2);
+		while(targetCan.alpha < 0.95f)
+		{
+			Mathf.Clamp(targetCan.alpha,0,1);
+			targetCan.alpha += Time.deltaTime / fadeSpeed;
+			
+			yield return null;
+		}
+		targetCan.alpha = 1;
 		if(changeScene)
 			SceneManager.LoadScene(targetScene);
 		if(selfDestruct)
