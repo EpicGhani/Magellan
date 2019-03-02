@@ -746,7 +746,7 @@ MonoBehaviour:
   targetCan: {fileID: 2130063397}
   fadeSpeed: 2
   waitTime: 0
-  targetScene: 5
+  targetScene: 0
   changeScene: 1
   animator: {fileID: 0}
   animatorBool: 

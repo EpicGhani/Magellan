@@ -42911,7 +42911,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &831958377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42924,7 +42924,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Type: 0
-  delay: 10
+  delay: 5
   targetToEnable:
   - {fileID: 132150894}
   targetToDisable:
@@ -48231,7 +48231,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Type: 0
-  delay: 20
+  delay: 17.5
   targetToEnable:
   - {fileID: 245448015}
   - {fileID: 1456972141}
@@ -103229,7 +103229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6363f51ee6a6d4741a511c9e90e89f1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Type: 0
+  Type: 1
   delay: 0
   targetToEnable:
   - {fileID: 126628299}
@@ -107410,7 +107410,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6363f51ee6a6d4741a511c9e90e89f1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Type: 1
+  Type: 0
   delay: 0
   targetToEnable:
   - {fileID: 549446564}
@@ -119267,7 +119267,7 @@ Prefab:
     - target: {fileID: 114993115419081596, guid: b2c4c80f467263d45ac529e2ea31222c,
         type: 2}
       propertyPath: changeSceneScripts.Array.size
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 114993115419081596, guid: b2c4c80f467263d45ac529e2ea31222c,
         type: 2}
@@ -119787,7 +119787,7 @@ Prefab:
     - target: {fileID: 114993115419081596, guid: b2c4c80f467263d45ac529e2ea31222c,
         type: 2}
       propertyPath: statementIndex
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114993115419081596, guid: b2c4c80f467263d45ac529e2ea31222c,
         type: 2}
