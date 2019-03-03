@@ -55,7 +55,7 @@ public class DialogueManager : MonoBehaviour
 			}
 			statementIndex++;
 		}
-		yield return new WaitForSeconds(.5f);
+		yield return new WaitForSeconds(.75f);
 		doneLoading = true;
 	}
 }

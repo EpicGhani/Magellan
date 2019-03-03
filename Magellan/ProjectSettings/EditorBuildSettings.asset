@@ -24,6 +24,15 @@ EditorBuildSettings:
     path: Assets/Highlight I/CH1P4 - Spain.unity
     guid: 26f7fb83266addf46a24644e9226a2a7
   - enabled: 1
+    path: Assets/Highlight I/CH2P1.unity
+    guid: ba1e229d694cafb4db463c8fcc1133ad
+  - enabled: 1
+    path: Assets/Highlight I/SEA SHORE STRAIT.unity
+    guid: 804997e79a7522f48a93689dc1757fec
+  - enabled: 1
+    path: Assets/Highlight I/guam.unity
+    guid: 7f3a56865809df6489eca8f88a42c016
+  - enabled: 1
     path: Assets/Highlight I/ComingSoon.unity
     guid: 022a298901b9ff940a050c4726706ece
   m_configObjects: {}
