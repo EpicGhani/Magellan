@@ -113,6 +113,1382 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &15175743
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 365.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 328.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0024613715
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.86105955
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011376378
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.508371
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -1.266
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -241.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.42000002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &71572369
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 381.941
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.095
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 345.619
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.009814673
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.17787942
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.006257199
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.98398346
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914373438299140, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_Name
+      value: Magellan (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.2340001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -20.488
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.50600004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &167477456
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 361.394
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.081
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 329.376
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0027354239
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.8730869
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.01131361
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.4874257
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -1.2850001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -238.351
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.358
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &168310409
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 363.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 330.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0028559489
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.87823653
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011283788
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.47808492
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -1.292
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -237.129
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.33100003
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &211642280
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 364.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 324.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.0013735511
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.64883345
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011558273
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.76084137
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -279.093
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.11
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &316183593
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 382.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.091
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 321.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5661931
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.82427263
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -68.97
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &362980020
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 491.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 10.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 327.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021789836
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.07757395
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.0000000016954327
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.9969866
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_RootOrder
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816409469987462, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -8.898001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f855683b127eede4c9d170be2672ae27, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &420797200
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 454.682
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 316.212
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.716707
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.69737446
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -91.567
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &455033190
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 378.331
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 356.153
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &479377628
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 381.30936
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.077
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 322.07367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5821849
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.81305647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -71.209
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &524733575
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 873.675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.073
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 311.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.048014473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99884665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (25)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &527238473
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 457.02936
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.11518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 315.38803
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.66808397
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7440859
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 51
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -83.839005
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &544919729
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 875.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 13.286
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 312.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.01163173
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.7054997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.000428122
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.70861465
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914373438299140, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_Name
+      value: Magellan (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -449.755
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -0.975
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &550075436
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 872.898
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 13.289
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 313.308
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.6765656
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7363825
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 85.152
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &550363355
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 453.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 316.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0032598027
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.8948578
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.01117381
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.44619948
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_RootOrder
+      value: 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -233.00699
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.23700002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -1.3130001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &583641088
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 372.373
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.083
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 355.336
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &585786260
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 454.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 318.389
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.9586981
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.28442562
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -146.951
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &634117318
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 381.21313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.079
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 320.63696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5278213
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.8493555
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -63.717003
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &646194907
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 454.165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 320.031
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.9801262
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19837506
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1443230361028090, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767791332202070, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 202.88399
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 964e7be33649f3f4bb374cf4f00e6a04, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &665144270
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 380.141
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 353.431
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &704183666
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 368.19864
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.11518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 323.66818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.00095940894
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.6756224
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011599993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.737156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.81700003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -274.995
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.054
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &792685842
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 367.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.078
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 357.838
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &836236600
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 379.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.11518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 323.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5649013
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.82515854
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -68.791
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &885270179
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 456.714
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.095
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 317.006
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.8170511
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.5765653
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -109.58101
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &890309593
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 871.865
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 311.232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.048014473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99884665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (30)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &891394083
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 363.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 326.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.000041593725
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.73650587
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011639528
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.6763311
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.98600006
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -265.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.89900005
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &966178281
 GameObject:
   m_ObjectHideFlags: 0
@@ -183,8 +1559,66 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1094454562
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 873.6045
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 324.93274
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 100056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_Name
+      value: Colonial Ship (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e286625af9da2b94a8090be8dea80dea, type: 3}
+  m_IsPrefabAsset: 0
 --- !u!1 &1107078925
 GameObject:
   m_ObjectHideFlags: 0
@@ -262,6 +1696,634 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1116488472
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 364.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 320.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.00086915505
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.6813355
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011607104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.7318787
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.83300006
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -274.104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.041
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1126246791
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 380.237
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 349.161
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.016305115
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.94488186
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.04521153
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.3238649
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 5.5090003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -217.83499
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.08800001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1201571031
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 876.496
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 311.191
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.048014473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99884665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (28)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1223921236
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 393.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.105
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 324.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.38938102
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.92107683
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -45.832
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1229911045
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 378.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 321.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.8165241
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.5773114
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638559984897164, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546031720563774, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -109.477005
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00750cc944792a2409c87f88c5aa9b90, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1236948638
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 382.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 323.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5259081
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.85054135
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -63.459003
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1237203149
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 376.371
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 352.594
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1259765489
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 393.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.092
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 322.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.24817389
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.96871555
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -28.739002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1315762057
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 391.769
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 324.923
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.010166926
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.23565432
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.0056669232
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.9717673
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_RootOrder
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914373438299140, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_Name
+      value: Magellan (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.2850001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -27.258001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.35700002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1335683306
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 380.683
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 357.072
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (25)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1347078963
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 366.62766
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.11518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 326.01596
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0009967433
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.7895296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011596844
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.6136022
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -1.1190001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -255.71399
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.725
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1349119143
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 455.66455
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.11518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 318.83377
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.8759259
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.48244566
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -122.310005
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1001 &1358268923
 Prefab:
   m_ObjectHideFlags: 0
@@ -299,22 +2361,484 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 56
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 2}
       propertyPath: m_LocalScale.x
-      value: 406.45294
+      value: 1461.3202
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 2}
       propertyPath: m_LocalScale.y
-      value: 406.45294
+      value: 1461.3202
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 2}
       propertyPath: m_LocalScale.z
-      value: 406.45294
+      value: 1461.3202
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1402390642
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 382.378
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 355.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1416005144
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 391.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 322.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.1883182
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.9821081
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -21.709002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1433513456
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 875.609
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.079
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 311.268
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.048014473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99884665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (27)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1548885410
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 378.282
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.092
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 353.671
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1580899321
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 366.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 321.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.0011854515
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.6611176
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011579078
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.7501919
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.77500004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -277.22998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.085
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1667909625
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 391.77054
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.081
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 326.26123
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.9970203
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.077139236
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 171.15201
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1694648034
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 379.97485
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.11518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 322.45584
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.011607501
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.6226045
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.0008638574
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7824502
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914373438299140, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_Name
+      value: Magellan (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -77.027
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -0.75100005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4529902763682586, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22586e76c5ba13e438bb8a6edcb21254, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1770932274
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 381.88638
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.094
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 324.63788
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.65538985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.75529075
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -81.898
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1775199831
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 874.566
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 311.365
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.048014473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99884665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1 &1782057864
 GameObject:
@@ -380,5 +2904,293 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &1809251733
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 370.286
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.093
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 354.564
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1828858616
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 374.427
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 351.726
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1847256035
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 363.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 321.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.0026179352
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.56256694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.011341373
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.8266699
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.483
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -291.533
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.243
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1855281751
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 872.806
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 311.323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.048014473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99884665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (29)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1954937695
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 870.964
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.069
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 311.124
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.048014473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99884665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4209699976384446, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168114390129612, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+      propertyPath: m_Name
+      value: Spanish Soldier (26)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 221e55405865d4c41ad1281db3906d53, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &2125448089
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 375.476
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.081
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 355.582
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.0060660057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98035514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.009933976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: -0.19689675
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989344689681250, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463917857393980, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+      propertyPath: m_Name
+      value: Portugese Soldier (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80ef8a24ad31a1d49a5f5215c9794758, type: 2}
+  m_IsPrefabAsset: 0
